@@ -1,2 +1,0 @@
-# mypository
-Code  fellows
